@@ -108,3 +108,5 @@ main();
 function getUuid() {
   return uuidv4().split("-").join("");
 }
+
+<references : Aoba Iwaki-https://github.com/AobaIwaki123/simple-xmpp-client>
